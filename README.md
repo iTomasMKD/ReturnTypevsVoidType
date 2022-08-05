@@ -1,4 +1,4 @@
-# ReturnTypevsVoidType
+# ReturnTypevsVoidType Remove Duplicate char in string
 Remove Duplicate with string return type and void type
 using System;
 
