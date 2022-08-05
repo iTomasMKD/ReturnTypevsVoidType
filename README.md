@@ -45,7 +45,7 @@ namespace TestConsoleApp
             var test = pr.RemoveDuplicate(y);
             Console.WriteLine(test);
             //call void return
-            TestConsoleApp.Program.removeduplicate("aaabb");
+            TestConsoleApp.Program.removeduplicate(y);
             Console.WriteLine();
         }
     }
